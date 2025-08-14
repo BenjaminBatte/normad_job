@@ -1,5 +1,7 @@
 ---
-title: NomadLite — Distributed Job Runner
+
+## title: NomadLite — Distributed Job Runner
+
 ---
 
 # NomadLite — Distributed Job Runner
@@ -8,18 +10,21 @@ NomadLite is a self-hosted, distributed job execution system that schedules and 
 
 It features:
 
-- **Real-time logs** via WebSockets
-- **Flexible scheduling**: FIFO, cron, and dependency-based
-- **Secure secret handling**
-- **Observability** with Prometheus and OpenTelemetry
+* **Real-time logs** via WebSockets
+* **Flexible scheduling**: FIFO, cron, and dependency-based
+* **Secure secret handling**
+* **Observability** with Prometheus and OpenTelemetry
 
 ---
 
 ## 📚 Documentation
-- [Overview](overview.md) — High-level project description and goals  
-- *(More sections coming soon)*
+
+* [Overview](overview.md) — High-level project description and goals
+* [Architecture](architecture.md) — System components, structure, and diagrams
+* *(More sections coming soon)*
 
 ---
 
 ## Status
+
 This is an early-stage project. More detailed documentation will be added as development progresses.
