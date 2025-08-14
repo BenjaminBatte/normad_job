@@ -9,5 +9,3 @@ NomadLite is a self-hosted, distributed job execution system that schedules and 
 
 ## Status
 This is an early-stage project. More detailed documentation will be added here as development progresses.
-
----

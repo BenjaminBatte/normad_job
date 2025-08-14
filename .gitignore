@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Go
+bin/
+*.exe
+*.log
