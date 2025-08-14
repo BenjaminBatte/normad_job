@@ -71,13 +71,19 @@ ui/
 
 ## Controller Internals
 
+![Controller Internals](images/controller.png)
+
 ---
 
 ## Agent Internals
 
+![Agent Internals](images/agent-internals.png)
+
 ---
 
 ## Domain Model
+
+![Domain Model](images/domain-model.png)
 
 ---
 
